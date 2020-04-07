@@ -1,4 +1,4 @@
-### BuilderTools
+# BuilderTools
 
 BuilderTools is a help for builder, which displays coordinates, item id and more helpfull things.
 
